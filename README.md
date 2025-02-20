@@ -17,6 +17,7 @@ Biblioteca/
 ├── controllers/
 │   ├── LibroController.php  # Controlador para manejar la lógica de los libros
 │
+
 ├── models/
 │   ├── Libro.php            # Modelo para la manipulación de datos en la base de datos
 │
