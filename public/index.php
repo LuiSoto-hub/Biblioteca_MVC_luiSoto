@@ -8,6 +8,7 @@ require_once __DIR__ . '/../config/database.php';
 // Obtener la ruta de la URL
 $request = $_SERVER['REQUEST_URI'];
 
+
 // Crear una instancia del controlador
 $controller = new LibreriaController($pdo);
 
